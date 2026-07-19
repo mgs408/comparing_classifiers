@@ -4,9 +4,7 @@
 
 ## Dataset
 
-[link](https://archive.ics.uci.edu/ml/datasets/bank+marketing). 
-
-The dataset details 79,354 phone contacts across 17 direct marketing campaigns from May 2008 to November 2010. The telemarketing calls promised attractive interest rates on long-term deposits and gathered demographic and financial details for each client. Ultimately, the dataset shows 8% success rate, with 6,499 customers subscribing.
+This dataset [link](https://archive.ics.uci.edu/ml/datasets/bank+marketing) details 79,354 phone contacts across 17 direct marketing campaigns from May 2008 to November 2010. The telemarketing calls promised attractive interest rates on long-term deposits and gathered demographic and financial details for each client. Ultimately, the dataset shows 8% success rate, with 6,499 customers subscribing.
 
 Key Dataset Statistics
 
